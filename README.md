@@ -1,5 +1,5 @@
 # plant-species-classifier
-plant seedlings image classification with CNNs
+plant seedlings image classification with CNN
 
 Context:
 
