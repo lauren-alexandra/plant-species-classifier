@@ -1,14 +1,14 @@
 # Plant Species Classifier 
 
-<table>
-<tr>
-<td>
-  Plant seedlings image classification with a convolutional neural network. 
-  <br /><br />
-  Context: the Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, has released a dataset containing images of unique plants belonging to 12 species at several growth stages. The ability to differentiate between a weed and a crop seedling can mean better crop yields and better stewardship of the environment.
-</td>
-</tr>
-</table>
+Plant seedlings image classification with a convolutional neural network. 
+
+## Context
+
+The ability to differentiate between a weed and a crop seedling can mean better crop yields and better stewardship of the environment.
+
+## Data
+
+The Aarhus University Signal Processing group, in collaboration with University of Southern Denmark, has released a [dataset](https://www.kaggle.com/c/plant-seedlings-classification) containing images of unique plants belonging to 12 species at several growth stages. 
 
 ## Built with
 
